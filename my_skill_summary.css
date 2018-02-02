@@ -1,0 +1,93 @@
+      .a {
+        font-size: 2em;
+        fill: white;
+		/*font-family: Calibri;*/
+      }
+
+      .b {
+        font-size: 2em;
+        fill: blue;
+      }
+	  
+	  .c
+	  {
+        font-size: 1.2em;
+        fill: white;
+		/*font-family: Calibri;*/
+	  }
+	  
+	  .green_text
+	  {
+		font-size: .8em;
+		fill: darkgreen;
+		/*font-family: Calibri;*/
+		font-weight: bold;
+	  }
+	  
+	  .blue_text
+	  {
+		font-size: .8em;
+		fill: darkblue;
+		/*font-family: Calibri;*/
+		font-weight: bold;
+	  }
+	  
+	  .orange_text
+	  {
+		font-size: .8em;
+		fill: darkolivegreen;
+		/*font-family: Calibri;*/
+		font-weight: bold;
+	  }
+	  .black_text
+	  {
+		font-size: .8em;
+		fill: black;
+		/*font-family: Calibri;*/
+		font-weight: bold;
+		overflow-wrap: break-word;
+	  }
+	  
+	  .black_text_smaller
+	  {
+		font-size: .74em;
+		fill: black;
+		/*font-family: Calibri;*/
+		font-weight: bold;
+		overflow-wrap: break-word;
+	  }
+	  
+	  .black_text_smallest
+	  {
+		font-size: .72em;
+		fill: black;
+		/*font-family: Calibri;*/
+		overflow-wrap: break-word;
+	  }
+	  
+	  .path {
+		stroke-dasharray: 1000;
+		stroke-dashoffset: 1000;
+		animation: dash 5s linear forwards;
+	  }
+	  
+	  @keyframes dash {
+		to {
+		stroke-dashoffset: 0;
+		}
+	  }
+	  
+	  rect {
+	     rx: 6;
+		 ry: 6;
+		 /*cursor: pointer;*/
+	  }
+	  
+	  text {
+		/*font-family: 'Kavivanar', cursive;*/
+		font-family: 'Macondo', cursive;
+		/*font-family: 'Lobster', cursive;*/
+		/*font-family: 'Pacifico', cursive;*/
+		/*font-family: 'Dancing Script', cursive;*/
+		/*font-family: 'Berkshire Swash', cursive;*
+	  }

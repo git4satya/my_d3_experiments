@@ -1,0 +1,23 @@
+product_category,product,baseline,current,planned
+Web Technologies,HTML,4,6,9
+Web Technologies,CSS,3,5,7
+Web Technologies,Javascript,4,7,9
+Web Technologies,jQuery,2,4,6
+Web Technologies,d3.js,3,5,8
+Scripting,Linux Shell,5,7,9
+Scripting,Python,5,7,9
+Scripting,Perl,0,4,7
+Machine Learning,Python,5,7,9
+Machine Learning,R,4,6,8
+Machine Learning,Tensorflow,2,5,8
+Machine Learning,Scikit-Learn,4,6,9
+Machine Learning,Deep Learning,3,6,9
+Business Intelligence,Tableau,5,7,9
+Business Intelligence,Teradata,6,8,9
+Business Intelligence,Business Objects,5,6,6
+Business Intelligence,Ab Initio,3,3,3
+Business Intelligence,Hive,4,6,8
+Business Intelligence,Pig,3,5,8
+Business Intelligence,ETL/ELT,5,7,8
+Project Management,Scrum,3,4,5
+Project Management,PMP,1,4,5
